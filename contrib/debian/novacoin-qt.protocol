@@ -1,0 +1,11 @@
+[Protocol]
+exec=StakeCoin-qt '%u'
+protocol=StakeCoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

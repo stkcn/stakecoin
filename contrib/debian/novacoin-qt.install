@@ -1,0 +1,5 @@
+StakeCoin-qt usr/bin
+share/pixmaps/StakeCoin32.xpm usr/share/pixmaps
+share/pixmaps/StakeCoin80.xpm usr/share/pixmaps
+debian/StakeCoin-qt.desktop usr/share/applications
+debian/StakeCoin-qt.protocol usr/share/kde4/services/

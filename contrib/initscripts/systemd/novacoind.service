@@ -1,0 +1,11 @@
+[Unit]
+Description=StakeCoin daemon serivce
+After=network.target
+
+[Service]
+Type=simple
+User=StakeCoin
+ExecStart=/opt/StakeCoin/StakeCoind
+
+[Install]
+WantedBy=multi-user.target
